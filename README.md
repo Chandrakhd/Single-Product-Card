@@ -2,4 +2,4 @@
 
 ![](./images/singleproduct.png)
 
-- Live URL: [Add live site URL here]()
+- Live URL: [Add live site URL here](https://chandrakhd.github.io/Single-Product-Card/)
